@@ -1,6 +1,8 @@
 # ds4102-sass_swatch
  Material Design Colours
 
+https://material.io/archive/guidelines/style/color.html#color-color-palette
+
 Colours
 Red - #F44336
 Pink - #E91E63
@@ -29,3 +31,17 @@ Grey - #9E9E9E
 Blue Grey - #607D8B
 
 Black & White - #000000 & #FFFFFF
+
+Red
+Red violet
+Violet
+Blue Violet
+Blue
+Blue Green
+Green
+Yellow Green
+Yellow
+Yellow Orange
+Orange
+Red Orange
+Red
