@@ -25,23 +25,22 @@ Amber - #FFC107
 
 Orange - #FF9800
 Deep Orange - #FF5722
-Brown - #795548
 
+Brown - #795548
 Grey - #9E9E9E
 Blue Grey - #607D8B
-
 Black & White - #000000 & #FFFFFF
 
 Red
-Red violet
-Violet
-Blue Violet
+Red-purple/Pink
+Purple
+Blue-purple
 Blue
-Blue Green
+Blue-green/Cyan
 Green
-Yellow Green
+Yellow-green/Light green
 Yellow
-Yellow Orange
+Yellow-orange
 Orange
-Red Orange
+Red-orange
 Red
