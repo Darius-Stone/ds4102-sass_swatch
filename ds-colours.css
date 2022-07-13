@@ -133,6 +133,140 @@
   border-color: #B71C1C !important;
 }
 
+/* Pink */
+/* Background */
+.ds-pink-050, .ds-hover-pink-050:hover {
+  background-color: #FCE4EC !important;
+  color: #E91E63 !important;
+}
+
+.ds-pink-100, .ds-hover-pink-100:hover {
+  background-color: #F8BBD0 !important;
+  color: #D81B60 !important;
+}
+
+.ds-pink-200, .ds-hover-pink-200:hover {
+  background-color: #F48FB1 !important;
+  color: #C2185B !important;
+}
+
+.ds-pink-300, .ds-hover-pink-300:hover {
+  background-color: #F06292 !important;
+  color: #AD1457 !important;
+}
+
+.ds-pink-400, .ds-hover-pink-400:hover {
+  background-color: #EC407A !important;
+  color: #880E4F !important;
+}
+
+.ds-pink-500, .ds-hover-pink-500:hover {
+  background-color: #E91E63 !important;
+  color: #FCE4EC !important;
+}
+
+.ds-pink-600, .ds-hover-pink-600:hover {
+  background-color: #D81B60 !important;
+  color: #F8BBD0 !important;
+}
+
+.ds-pink-700, .ds-hover-pink-700:hover {
+  background-color: #C2185B !important;
+  color: #F48FB1 !important;
+}
+
+.ds-pink-800, .ds-hover-pink-800:hover {
+  background-color: #AD1457 !important;
+  color: #F06292 !important;
+}
+
+.ds-pink-900, .ds-hover-pink-900:hover {
+  background-color: #880E4F !important;
+  color: #EC407A !important;
+}
+
+/* Text */
+.ds-text-pink-050, .ds-hover-pink-050:hover {
+  color: #FCE4EC !important;
+}
+
+.ds-text-pink-100, .ds-hover-pink-050:hover {
+  color: #F8BBD0 !important;
+}
+
+.ds-text-pink-200, .ds-hover-pink-050:hover {
+  color: #F48FB1 !important;
+}
+
+.ds-text-pink-300, .ds-hover-pink-050:hover {
+  color: #F06292 !important;
+}
+
+.ds-text-pink-400, .ds-hover-pink-050:hover {
+  color: #EC407A !important;
+}
+
+.ds-text-pink-500, .ds-hover-pink-050:hover {
+  color: #E91E63 !important;
+}
+
+.ds-text-pink-600, .ds-hover-pink-050:hover {
+  color: #D81B60 !important;
+}
+
+.ds-text-pink-700, .ds-hover-pink-050:hover {
+  color: #C2185B !important;
+}
+
+.ds-text-pink-800, .ds-hover-pink-050:hover {
+  color: #AD1457 !important;
+}
+
+.ds-text-pink-900, .ds-hover-pink-050:hover {
+  color: #880E4F !important;
+}
+
+/* Border */
+.ds-border-pink-050, .ds-hover-pink-050:hover {
+  border-color: #FCE4EC !important;
+}
+
+.ds-border-pink-100, .ds-hover-pink-050:hover {
+  border-color: #F8BBD0 !important;
+}
+
+.ds-border-pink-200, .ds-hover-pink-050:hover {
+  border-color: #F48FB1 !important;
+}
+
+.ds-border-pink-300, .ds-hover-pink-050:hover {
+  border-color: #F06292 !important;
+}
+
+.ds-border-pink-400, .ds-hover-pink-050:hover {
+  border-color: #EC407A !important;
+}
+
+.ds-border-pink-500, .ds-hover-pink-050:hover {
+  border-color: #E91E63 !important;
+}
+
+.ds-border-pink-600, .ds-hover-pink-050:hover {
+  border-color: #D81B60 !important;
+}
+
+.ds-border-pink-700, .ds-hover-pink-050:hover {
+  border-color: #C2185B !important;
+}
+
+.ds-border-pink-800, .ds-hover-pink-050:hover {
+  border-color: #AD1457 !important;
+}
+
+.ds-border-pink-900, .ds-hover-pink-050:hover {
+  border-color: #880E4F !important;
+}
+
 /* purple */
 /* Background */
 .ds-purple-050, .ds-hover-purple-050:hover {
@@ -265,6 +399,140 @@
 
 .ds-border-purple-900, .ds-hover-purple-050:hover {
   border-color: #4A148C !important;
+}
+
+/* deep-purple */
+/* Background */
+.ds-deep-purple-050, .ds-hover-deep-purple-050:hover {
+  background-color: #EDE7F6 !important;
+  color: #673AB7 !important;
+}
+
+.ds-deep-purple-100, .ds-hover-deep-purple-100:hover {
+  background-color: #D1C4E9 !important;
+  color: #5E35B1 !important;
+}
+
+.ds-deep-purple-200, .ds-hover-deep-purple-200:hover {
+  background-color: #B39DDB !important;
+  color: #512DA8 !important;
+}
+
+.ds-deep-purple-300, .ds-hover-deep-purple-300:hover {
+  background-color: #9575CD !important;
+  color: #4527A0 !important;
+}
+
+.ds-deep-purple-400, .ds-hover-deep-purple-400:hover {
+  background-color: #7E57C2 !important;
+  color: #311B92 !important;
+}
+
+.ds-deep-purple-500, .ds-hover-deep-purple-500:hover {
+  background-color: #673AB7 !important;
+  color: #EDE7F6 !important;
+}
+
+.ds-deep-purple-600, .ds-hover-deep-purple-600:hover {
+  background-color: #5E35B1 !important;
+  color: #D1C4E9 !important;
+}
+
+.ds-deep-purple-700, .ds-hover-deep-purple-700:hover {
+  background-color: #512DA8 !important;
+  color: #B39DDB !important;
+}
+
+.ds-deep-purple-800, .ds-hover-deep-purple-800:hover {
+  background-color: #4527A0 !important;
+  color: #9575CD !important;
+}
+
+.ds-deep-purple-900, .ds-hover-deep-purple-900:hover {
+  background-color: #311B92 !important;
+  color: #7E57C2 !important;
+}
+
+/* Text */
+.ds-text-deep-purple-050, .ds-hover-deep-purple-050:hover {
+  color: #EDE7F6 !important;
+}
+
+.ds-text-deep-purple-100, .ds-hover-deep-purple-050:hover {
+  color: #D1C4E9 !important;
+}
+
+.ds-text-deep-purple-200, .ds-hover-deep-purple-050:hover {
+  color: #B39DDB !important;
+}
+
+.ds-text-deep-purple-300, .ds-hover-deep-purple-050:hover {
+  color: #9575CD !important;
+}
+
+.ds-text-deep-purple-400, .ds-hover-deep-purple-050:hover {
+  color: #7E57C2 !important;
+}
+
+.ds-text-deep-purple-500, .ds-hover-deep-purple-050:hover {
+  color: #673AB7 !important;
+}
+
+.ds-text-deep-purple-600, .ds-hover-deep-purple-050:hover {
+  color: #5E35B1 !important;
+}
+
+.ds-text-deep-purple-700, .ds-hover-deep-purple-050:hover {
+  color: #512DA8 !important;
+}
+
+.ds-text-deep-purple-800, .ds-hover-deep-purple-050:hover {
+  color: #4527A0 !important;
+}
+
+.ds-text-deep-purple-900, .ds-hover-deep-purple-050:hover {
+  color: #311B92 !important;
+}
+
+/* Border */
+.ds-border-deep-purple-050, .ds-hover-deep-purple-050:hover {
+  border-color: #EDE7F6 !important;
+}
+
+.ds-border-deep-purple-100, .ds-hover-deep-purple-050:hover {
+  border-color: #D1C4E9 !important;
+}
+
+.ds-border-deep-purple-200, .ds-hover-deep-purple-050:hover {
+  border-color: #B39DDB !important;
+}
+
+.ds-border-deep-purple-300, .ds-hover-deep-purple-050:hover {
+  border-color: #9575CD !important;
+}
+
+.ds-border-deep-purple-400, .ds-hover-deep-purple-050:hover {
+  border-color: #7E57C2 !important;
+}
+
+.ds-border-deep-purple-500, .ds-hover-deep-purple-050:hover {
+  border-color: #673AB7 !important;
+}
+
+.ds-border-deep-purple-600, .ds-hover-deep-purple-050:hover {
+  border-color: #5E35B1 !important;
+}
+
+.ds-border-deep-purple-700, .ds-hover-deep-purple-050:hover {
+  border-color: #512DA8 !important;
+}
+
+.ds-border-deep-purple-800, .ds-hover-deep-purple-050:hover {
+  border-color: #4527A0 !important;
+}
+
+.ds-border-deep-purple-900, .ds-hover-deep-purple-050:hover {
+  border-color: #311B92 !important;
 }
 
 /* Colors */
