@@ -1,5 +1,6 @@
 # ds4102-sass_swatch
- Material Design Colours
+
+Material Design Colours
 
 Cyan - #
 Turquoise - #
@@ -12,7 +13,7 @@ Orange - #
 Yellow - #
 Lime - #
 Green - #
-Mint - #
+Teal - #
 
 Brown - #
 Grey - #
