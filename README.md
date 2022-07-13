@@ -1,30 +1,49 @@
 # ds4102-sass_swatch
 
-Material Design Colours
+## Material Design Colours
 
-Cyan - #
-Turquoise - #
-Blue - #
-Purple - #
-Magenta - #
-Pink - #
-Red - #
-Orange - #
-Yellow - #
-Lime - #
-Green - #
-Teal - #
+### Flat UI
 
-Brown - #
-Grey - #
-Blue Grey - #
-Black & White
+Turquoise
+Emerland
+Peterriver
+Amethyst
+Wetasphalt
+Greensea
+Nephritis
+Belizehole
+Wisteria
+Midnightblue
+Sunflower
+Carrot
+Alizarin
+Clouds
+Concrete
+Orange
+Pumpkin
+Pomegranate
+Silver
+Asbestos
 
-Pale to Dark (500 is normal)
-100-200-300-400-500-600-700-800-900
+### Material UI
 
-20-40-60-80-100-
-
-Background
-Text
-Border
+50-100-200-300-400-500-600-700-800-900
+Red
+Pink
+Purple
+Deep Purple
+Indigo
+Blue
+Light Blue
+Cyan
+Teal
+Green
+Light Green
+Lime
+Yellow
+Amber
+Orange
+Deep Orange
+Brown
+Grey
+Blue Grey
