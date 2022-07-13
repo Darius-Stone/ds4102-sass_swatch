@@ -1,4 +1,4 @@
-/* Colours */
+/* Colour Variables */
 
 $cyan: #00ffff;
 $turquoise: #00bcd4;
@@ -13,12 +13,22 @@ $lime: #cddc39;
 $green: #4caf50;
 $teal: #009688;
 
-$brown: #795548;
+$brown: #52352a;
 $grey: #9e9e9e;
 $blue-grey: #607d8b;
 $black: #000;
-$white: #FFF;
+$white: #fff;
 
+/*  */
+
+.ds-cyan-100, .ds-hover-cyan-100:hover { background-color: lighten(cyan, 80) !important; color: black !important; }
+
+.ds-cyan, .ds-cyan-500, .ds-hover-cyan:hover, .ds-hover-cyan-500:hover { background-color: cyan !important; color: black !important; }
+
+.ds-turquoise,
+.ds-hover-turquoise:hover {
+  color: turquoise;
+}
 
 /* Colors */
 .w3-amber,

@@ -19,3 +19,12 @@ Brown - #
 Grey - #
 Blue Grey - #
 Black & White
+
+Pale to Dark (500 is normal)
+100-200-300-400-500-600-700-800-900
+
+20-40-60-80-100-
+
+Background
+Text
+Border
